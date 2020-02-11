@@ -1,5 +1,5 @@
 const mysql = require('mysql');
-const dbConfig = require('../config/database');
+const dbConfig = require('../configs/database');
 
 let con;
 module.exports = {
